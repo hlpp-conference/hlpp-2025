@@ -19,3 +19,7 @@ Following the successful [2024 symposium in Pisa](https://hlpp2024.di.unipi.it/)
 
 Further details about the HLPP 2025 conference will be shared in the coming months.
 We look forward to welcoming you to the University of Innsbruck in 2025!
+
+![University of Innsbruck Logo]({{ site.baseurl }}/assets/images/uibk_logo.svg)
+{: style="text-align: center;"}
+
