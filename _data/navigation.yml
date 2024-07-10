@@ -1,0 +1,15 @@
+main:
+  - title: "Call for Papers"
+    url: /cfp/
+  - title: "Dates & Submission"
+    url: /dates/
+  - title: "Venue"
+    url: /venue/
+  - title: "Organization"
+    url: /organization/
+  - title: "Registration"
+    url: /registration/
+  - title: "Program"
+    url: /program/
+  - title: "Sponsors"
+    url: /sponsors/

@@ -18,14 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: HLPP 2025 - High-level Parallel Programming and Applications
+title: HLPP 2025
+subtitle: 18th International Symposium on <br>High-level Parallel Programming and Applications
 email: philipp.gschwandtner@uibk.ac.at
 description: >- # this means to ignore newlines until "baseurl:"
-  The 18th International Symposium on High-level Parallel Programming and Applications 
-  will take place as a two-day event at the University of Innsbruck in Austria. 
-  It focuses on high-level parallel programming of multi-/many-core platforms, 
-  heterogeneous compute clusters, accelerators and highly parallel or 
-  distributed infrastructures. 
+  The 18th International Symposium on High-level Parallel Programming and Applications
+  will take place as a two-day event at the University of Innsbruck in Austria.
+  It focuses on high-level parallel programming of multi-/many-core platforms,
+  heterogeneous compute clusters, accelerators and highly parallel or
+  distributed infrastructures.
 baseurl: "/hlpp-2025" # the subpath of your site, e.g. /blog
 url: "https://hlpp-conference.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -36,6 +37,8 @@ remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
+minimal_mistakes_skin: "air"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
