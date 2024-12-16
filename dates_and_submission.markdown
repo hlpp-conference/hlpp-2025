@@ -6,11 +6,13 @@ permalink: /dates/
 
 ## Important Dates and Deadlines
 
-* Abstract submission: TBD
-* Paper submission: TBD
-* Author notification: TBD
+* Abstract submission: **2025-04-04**, AoE
+* Paper submission: **2025-04-11**, AoE
+* Author notification: **2025-05-30**, AoE
 
 * Conference: **2025-07-03 -- 2025-07-04**
+
+* Journal Special Issue paper submission: end of September 2025
 
 ## Submission and Review Process
 
