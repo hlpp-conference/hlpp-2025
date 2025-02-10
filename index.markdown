@@ -14,7 +14,7 @@ header:
 
 The 18th HLPP symposium will be held as a two-day event, hosted by the [Computer Science Department](https://www.uibk.ac.at/informatik) of the [University of Innsbruck](https://www.uibk.ac.at) in Austria. It focuses on high-level parallel programming of multi-/many-core platforms, accelerator architectures, heterogeneous compute clusters, and highly parallel or distributed infrastructures.
 
-HLPP serves as a forum for researchers and engineers in parallel computing, offering an excellent opportunity for scientists to present their latest ideas and findings in this challenging and ever-changing research field. We especially encouraged innovative approaches in parallel programming models and applications, high-level parallel languages, compilers, runtime systems, and programming tools for all classes of parallel machines.
+HLPP serves as a forum for researchers and engineers in parallel computing, offering an excellent opportunity for scientists to present their latest ideas and findings in this challenging and ever-changing research field. We especially encourage innovative approaches in parallel programming models and applications, high-level parallel languages, compilers, runtime systems, and programming tools for all classes of parallel machines.
 
 Following the successful [2024 symposium in Pisa](https://hlpp2024.di.unipi.it/), HLPP 2025 aims to deliver an enriching conference experience in Innsbruck, featuring impactful research, constructive discussions, and valuable networking opportunities.
 
