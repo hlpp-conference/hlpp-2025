@@ -2,6 +2,7 @@
 layout: single
 title: Call for Papers
 permalink: /cfp/
+include_subs: true
 ---
 
 HLPP'25 encourages submissions on topics related to all aspects of parallel

@@ -8,6 +8,7 @@ header:
   image: /assets/images/cover_nordkettenbahn.jpg
 ---
 
+{% include subs_open.html center=true %}
 
 ## 18th International Symposium, Innsbruck, Austria 3-4 July 2025
 

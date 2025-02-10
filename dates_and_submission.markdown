@@ -2,6 +2,7 @@
 layout: single
 title: Dates & Submission
 permalink: /dates/
+include_subs: true
 ---
 
 ## Important Dates and Deadlines

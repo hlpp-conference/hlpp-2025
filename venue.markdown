@@ -2,6 +2,7 @@
 layout: single
 title: Venue
 permalink: /venue/
+include_subs: true
 ---
 
 HLPP2025 will take place at the [**University of Innsbruck**](https://www.uibk.ac.at), in [**Innsbruck, Austria**](https://www.innsbruck.info/).

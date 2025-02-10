@@ -2,6 +2,7 @@
 layout: single
 title: Organization
 permalink: /organization/
+include_subs: true
 ---
 
 ## Local Organizers and Program Chairs
