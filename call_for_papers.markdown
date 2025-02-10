@@ -10,7 +10,7 @@ heterogeneous compute clusters, and highly parallel or distributed
 infrastructures.
 
 Authors of accepted research papers will be invited to submit their work to the
-Spinger-Nature International Journal of Parallel Programming (IJPP) Special
+Springer-Nature International Journal of Parallel Programming (IJPP) Special
 Issue of the HLPP 2025 symposium.
 
 # Topics of Interest
