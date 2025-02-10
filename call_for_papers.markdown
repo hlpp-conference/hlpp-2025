@@ -27,9 +27,9 @@ Issue of the HLPP 2025 symposium.
  * Parallel and distributed applications using high-level languages and libraries
 
 # Submission and Review Process
- * Up to 20 pages including figures, tables, and references in Springer-Nature journal format
- * Each paper will be peer-reviewed by at least three reviewers
- * Submission: Will be made available (through Easychair)
+ * Up to 20 pages including figures, tables, and references. [Springer-Nature journal format](https://www.springernature.com/gp/authors/campaigns/latex-author-support#c17590862).
+ * Each paper will be peer-reviewed by at least three reviewers (single-blind review)
+ * EasyChair submission link: https://easychair.org/conferences/?conf=hlpp2025
 
 # Important Days and Deadlines
  * Abstract submission due date: April 4, 2025, AoE
