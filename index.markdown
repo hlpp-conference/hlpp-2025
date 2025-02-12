@@ -18,8 +18,7 @@ HLPP serves as a forum for researchers and engineers in parallel computing, offe
 
 Following the successful [2024 symposium in Pisa](https://hlpp2024.di.unipi.it/), HLPP 2025 aims to deliver an enriching conference experience in Innsbruck, featuring impactful research, constructive discussions, and valuable networking opportunities.
 
-Further details about the HLPP 2025 conference will be shared in the coming months.
-We look forward to welcoming you to the University of Innsbruck in 2025!
+Submissions are [now open]({{ 'cfp' | relative_url }}), and we look forward to welcoming you to the University of Innsbruck in July!
 
 ![University of Innsbruck Logo]({{ site.baseurl }}/assets/images/uibk_logo.svg)
 {: style="text-align: center;"}
