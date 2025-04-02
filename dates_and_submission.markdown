@@ -7,8 +7,8 @@ include_subs: true
 
 ## Important Dates and Deadlines
 
- * Abstract submission: **2025-04-04**, AoE
- * Paper submission: **2025-04-11**, AoE
+ * Abstract submission: ~~2025-04-04~~ **2025-04-18**, AoE
+ * Paper submission: ~~2025-04-11~~ **2025-04-25**, AoE
  * Author notification: **2025-05-30**, AoE
  
  * Conference: **2025-07-03 - 2025-07-04**

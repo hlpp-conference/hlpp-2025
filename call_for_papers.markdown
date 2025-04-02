@@ -33,7 +33,7 @@ Issue of the HLPP 2025 symposium.
  * EasyChair submission: [https://easychair.org/conferences/?conf=hlpp2025](https://easychair.org/conferences/?conf=hlpp2025)
 
 # Important Days and Deadlines
- * Abstract submission due date: April 4, 2025, AoE
- * Submission due date: April 11, 2025, AoE
+ * Abstract submission due date: April 18, 2025, AoE
+ * Submission due date: April 25, 2025, AoE
  * Authors notification: May 30, 2025
  * Journal Special Issue paper submission: end of September 2025
