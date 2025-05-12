@@ -6,7 +6,7 @@ include_subs: true
 ---
 
 The full program will be published after the author notification, and will
-include regular talk sessions, a keynote, a social event, and dinner on the evening
+include regular talk sessions, two keynotes, a social event, and dinner on the evening
 of the first day.
 
 For your planning convenience, here is a *tentative* estimate of the general

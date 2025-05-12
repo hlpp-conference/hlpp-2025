@@ -30,10 +30,12 @@ layout: default
     <div class="page__inner-wrap" style="margin-top: 20px;">
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
+          {%- comment -%}
           {% if page.include_subs %}
             {% include subs_open.html %}
             <div style="padding-top: 10px;"></div>
           {% endif %}
+          {%- endcomment -%}
           {% if page.title -%}
           <h1 id="page-title" class="page__title" itemprop="headline">
             <a href="{{ page.url | absolute_url }}" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
