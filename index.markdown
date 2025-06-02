@@ -10,7 +10,12 @@ header:
 
 ## 18th International Symposium, Innsbruck, Austria 3-4 July 2025
 
-### 2025-05-12 -- Submissions closed and keynote speakers confirmed
+### 2025-06-02 — Registration is now open!
+
+We are pleased to announce that registration for the HLPP 2025 symposium is now open!
+You can register [here]({{ 'registration' | relative_url }}).
+
+### 2025-05-12 — Submissions closed and keynote speakers confirmed
 
 Submissions are now closed. Thanks to all authors for their contributions! The program committee has started the review process, and we will notify authors of the results by June 6, 2025.
 
@@ -20,7 +25,7 @@ At this time, we are happy to confirm our two keynote speakers:
 
 We will share more details about the program and the keynote talks in the coming weeks, when registration opens.
 
-### 2025-02-10 -- Submissions are open
+### 2025-02-10 — Submissions are open
 
 Submissions are [now open]({{ 'cfp' | relative_url }}), and we look forward to welcoming you to the University of Innsbruck in July!
 
