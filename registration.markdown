@@ -13,4 +13,3 @@ The HLPP 2025 registration fee is **400 Euro**, and includes the following:
  * Participation in the social event and dinner on the first day
 
 Please [contact us](mailto:philipp.gschwandtner@uibk.ac.at) if you have any questions regarding the registration process.
-
