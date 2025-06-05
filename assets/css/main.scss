@@ -21,3 +21,13 @@ search: false
 body {
   font-size: 13pt;
 }
+
+table {
+  font-size: 12pt;
+}
+
+th + th:before {
+  content: '';
+  display: block;
+  min-width: 22em;
+}
