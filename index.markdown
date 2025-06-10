@@ -10,6 +10,11 @@ header:
 
 ## 18th International Symposium, Innsbruck, Austria 3-4 July 2025
 
+### 2025-06-10 — Full program available
+
+The full program for HLPP 2025 is now available! You can find it [here]({{ 'program' | relative_url }}).
+Note that there may still be minor changes to the schedule, but the overall structure is now finalized.
+
 ### 2025-06-02 — Registration is now open!
 
 We are pleased to announce that registration for the HLPP 2025 symposium is now open!

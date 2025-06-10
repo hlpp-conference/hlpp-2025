@@ -35,5 +35,5 @@ Issue of the HLPP 2025 symposium.
 # Important Days and Deadlines
  * ~~Abstract submission due date: May 02, 2025, AoE~~
  * ~~Submission due date: May 09, 2025, AoE~~
- * Authors notification: June 06, 2025
+ * ~~Authors notification: June 06, 2025~~
  * Journal Special Issue paper submission: end of September 2025

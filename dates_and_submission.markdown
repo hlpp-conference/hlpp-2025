@@ -9,7 +9,7 @@ include_subs: true
 
  * ~~Abstract submission: **2025-05-02**, AoE~~
  * ~~Paper submission: **2025-05-09**, AoE~~
- * Author notification: **2025-06-06**, AoE
+ * ~~Author notification: **2025-06-06**, AoE~~
  
  * Conference: **2025-07-03 - 2025-07-04**
  
