@@ -65,6 +65,8 @@ specialization." %}
 
 ## Technical Session 1
 
+*Session Chair: Christoph Kessler*
+
 **PHI: a modern C++ library for parallel pattern composition**  
 Santiago Veigas Ramírez, Daniel Martínez Davies and José Daniel García Sánchez
 {% include abstract.html 
@@ -119,6 +121,8 @@ providing a scalable and flexible High-Performance Computing (HPC) tool for data
 preprocessing in contemporary ML workflows." %}
 
 ## Technical Session 2
+
+*Session Chair: Gaétan Hains*
 
 **SkePU-Streaming: Distributed Pipelining of Portable Data-Parallel Skeleton
 Computations for the Heterogeneous Edge-Cloud Continuum**  
@@ -213,6 +217,8 @@ static checks for the user, eliminating many runtime errors." %}
 
 ## Technical Session 3
 
+*Session Chair: Christopher Brown*
+
 **High-level Programming of Vulkan-based GPUs through OpenMP**  
 Ilias K. Kasmeridis and Vassilios V. Dimakopoulos
 {% include abstract.html
@@ -285,6 +291,8 @@ efficiency, adaptability, and practicality over large-scale distributed
 training." %}
 
 ## Technical Session 4
+
+*Session Chair: Peter Thoman*
 
 **East of Eden: Parallel Functional Programming in Idris**  
 Christopher Brown and Adam Barwell
