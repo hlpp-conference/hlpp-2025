@@ -10,14 +10,14 @@ include_subs: true
 | Time  | Activity |
 |-------|----------|
 | 08:30 | Registration Opens |
-| 09:00 | Welcome and Opening |
+| 09:00 | [Welcome and Opening]({{ site.baseurl }}/assets/slides/01_welcome_and_opening.pdf) |
 | 09:15 | [Keynote 1](#keynote-1) |
 | 10:15 | Coffee Break |
 | 10:30 | [Technical Session 1](#technical-session-1) |
 | 12:00 | Lunch Break |
 | 13:30 | [Technical Session 2](#technical-session-2) |
 | 15:00 | Coffee Break |
-| 15:20 | Information Regarding the [Social Event](#social-event--dinner) |
+| 15:20 | [Information]({{ site.baseurl }}/assets/slides/02_social_event_dinner_info.pdf) Regarding the [Social Event](#social-event--dinner) |
 | 15:45 | Meetup for the [Social Event](#social-event--dinner) |
 | 18:30 | [Dinner](#social-event--dinner) at 1965m Altitude |
 
