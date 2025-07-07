@@ -1,4 +1,8 @@
+{% if include.slides %}
+<a class="slides" href="{{ site.baseurl }}/assets/slides/{{include.slides}}">📥 Slides</a>
+{% endif %}
 <details>
 <summary>Show Abstract</summary>
 {{ include.text | markdownify }}
 </details>
+

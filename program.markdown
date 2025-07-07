@@ -31,7 +31,7 @@ include_subs: true
 | 10:30 | [Technical Session 3](#technical-session-3) |
 | 12:00 | Lunch Break |
 | 13:30 | [Technical Session 4](#technical-session-4) |
-| 14:30 | Closing Statement |
+| 14:30 | [Closing Statement]({{ site.baseurl }}/assets/slides/03_closing_statement.pdf) |
 | 15:00 | Coffee Break and Farewell |
 
 ---
@@ -118,7 +118,8 @@ Experimental evaluation demonstrates substantial performance gains over
 conventional sequential approaches and state-of-the-art solutions. Furthermore,
 the library integrates seamlessly with widely adopted deep learning frameworks,
 providing a scalable and flexible High-Performance Computing (HPC) tool for data
-preprocessing in contemporary ML workflows." %}
+preprocessing in contemporary ML workflows."
+slides="technical/ts1_3_mneme.pdf" %}
 
 ## Technical Session 2
 
