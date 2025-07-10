@@ -10,6 +10,13 @@ header:
 
 ## 18th International Symposium, Innsbruck, Austria 3-4 July 2025
 
+### 2025-07-10 — Conference photos and slide decks are now available
+
+HLPP 2025 has concluded, and we would like to thank all participants for making it a successful event!  
+We have uploaded some photos from the symposium, which you can find [here]({{ 'photos' | relative_url }}).
+
+We are also planning to upload slide decks from the keynotes and presentations in the coming weeks -- some are already available. These will be linked on the [program page]({{ 'program' | relative_url }}).
+
 ### 2025-06-10 — Full program available
 
 The full program for HLPP 2025 is now available! You can find it [here]({{ 'program' | relative_url }}).
