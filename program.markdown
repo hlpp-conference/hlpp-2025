@@ -77,7 +77,8 @@ declarative composition of parallel patterns by means of a pipe-like syntax that
 better aligns with contemporary C++ idioms. Additionally, PHI's architecture
 aims to separate pattern composition from its execution, allowing for
 backend-agnostic implementations, and the potential to integrate various
-execution models." %}
+execution models."
+slides="technical/ts1_1_phi.pdf" %}
 
 **Enabling Pinning Strategies for Stream Processing Applications on Multicores**  
 Lorenzo Bindi, Salvatore D'Amico, Gabriele Mencagli and Massimo Torquati
