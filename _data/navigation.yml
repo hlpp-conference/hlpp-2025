@@ -1,8 +1,8 @@
 main:
   - title: "Call for Papers"
     url: /cfp/
-  #- title: "Dates & Submission"
-  - title: "Dates"
+  - title: "Dates & Submission"
+  #- title: "Dates"
     url: /dates/
   - title: "Venue"
     url: /venue/

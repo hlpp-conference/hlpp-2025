@@ -10,6 +10,10 @@ header:
 
 ## 18th International Symposium, Innsbruck, Austria 3-4 July 2025
 
+### 2025-08-12 — Journal Special Issue submission open
+Authors of accepted papers are invited to submit an improved and extended version of their paper to a special issue in the *International Journal of Parallel Programming* (IJPP). The submission deadline is **2025-09-30**.
+You can find the submission link and details on the [Dates & Submission]({{ 'dates' | relative_url }}) page.
+
 ### 2025-07-10 — Conference photos and slide decks are now available
 
 HLPP 2025 has concluded, and we would like to thank all participants for making it a successful event!  

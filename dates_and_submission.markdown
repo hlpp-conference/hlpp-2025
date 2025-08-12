@@ -13,10 +13,11 @@ include_subs: true
  
  * Conference: **2025-07-03 - 2025-07-04**
  
- * Journal Special Issue paper submission: end of September 2025
+ * Journal Special Issue paper submission: **2025-09-30**, AoE
 
-## Submission and Review Process
+## Journal Special Issue Submission Process
 
+ * Authors of accepted papers are invited to submit an improved and extended version of their paper to a special issue in the *International Journal of Parallel Programming* (IJPP).
  * Up to 20 pages including figures, tables, and references. [Springer-Nature journal format](https://www.springernature.com/gp/authors/campaigns/latex-author-support#c17590862).
- * Each paper will be peer-reviewed by at least three reviewers (single-blind review)
- * EasyChair submission: [https://easychair.org/conferences/?conf=hlpp2025](https://easychair.org/conferences/?conf=hlpp2025)
+ * [Follow this link](https://submission.nature.com/new-submission/10766/3) to submit your paper to the special issue.
+ * On the "Details" page during submission, please select the **"HLPP 2025 (High-Level Parallel Programming and Applications)" collection** from the dropdown menu.
